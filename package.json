@@ -1,0 +1,17 @@
+{
+  "name": "app-engine-part-2",
+  "version": "1.0.0",
+  "description": "This project to calculate heart rate states",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Kumar Atluri",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/debug-agent": "^4.1.0",
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "url": "^0.11.0"
+  }
+}
